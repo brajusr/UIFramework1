@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="28.218737">
+<testcase classname="user Reg" name="102341 - Verify space data" time="21.101896">
+<system-out><![CDATA[Given I launched broeser with this URL......................................passed
+When I entered valid us pwd and click on login button.......................passed
+Then I should navigate to home page.........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="user Reg" name="102341 - Verify space data" time="7.116841">
+<system-out><![CDATA[Given I launched broeser with this URL......................................passed
+When I entered valid us pwd and click on login button.......................passed
+Then I should navigate to home page.........................................passed
+]]></system-out>
+</testcase>
+</testsuite>
