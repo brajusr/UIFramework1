@@ -83,8 +83,9 @@
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
+			</plugins>
   </build>
   
-  </plugins>
+  
   
 </project>
