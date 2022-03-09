@@ -62,8 +62,9 @@ public class BrowserfactoryWithSupplier {
 		
 		driver = BrowserfactoryWithSupplier.getDriver(BrowsersType.CHROME);
 		context.setWebDriver(driver);
-		driver.get("https://www.demoqa.com/books");
+		driver.get("https://demoqa.com/books");
 		driver.findElement(By.id("login")).click(); 
+		System.out.println("hi");
 		return factory.create(LoginPage.class, true);
 	}
 	
